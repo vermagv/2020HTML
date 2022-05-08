@@ -1,0 +1,20 @@
+#main
+{
+	width: 1366px;
+	height: 768px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: black;
+}
+#header
+{
+	width: 1350px;
+	height: 25px;
+	background-color: orange;
+}
+#header1
+{
+	width: 1350px;
+	height: 750px;
+	background-color: white;
+}
